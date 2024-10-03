@@ -1,6 +1,6 @@
 # Introduction-to-Horovod-on-Sagemaker
 
-# CIFAR-10 Image Classification with Amazon SageMaker
+## CIFAR-10 Image Classification with Amazon SageMaker
 
 This project demonstrates how to train and deploy a convolutional neural network (CNN) for image classification using the CIFAR-10 dataset on Amazon SageMaker. It showcases various SageMaker features, including local mode, distributed training with Horovod, and both File and Pipe input modes.
 
